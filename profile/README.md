@@ -54,7 +54,7 @@ Automatic swap execution, cross-chain arbitrage routes, and gas optimization —
 
 | Component | Minimum           | Recommended          |
 |-----------|------------------|----------------------|
-| OS        | Windows/Linux/macOS | Linux (VPS)        |
+| OS        | Windows | Windows        |
 | CPU       | 2 cores          | 4+ cores            |
 | RAM       | 2 GB             | 8 GB+               |
 | Network   | Stable RPC access | Private RPC / Low latency |
@@ -68,5 +68,5 @@ Automatic swap execution, cross-chain arbitrage routes, and gas optimization —
 | **Which chains are supported?**  | Ethereum, BSC, Polygon, Base, Arbitrum.       |
 | **Is it safe?**                  | Yes, non-custodial and works offline.         |
 | **Can I run multiple strategies?** | Yes, multi-strategy and simulation supported.|
-| **Free or paid?**                | Free core bot, premium unlocks advanced analytics and alerts. |
+| **Free or paid?**                | Free |
 
